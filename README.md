@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @anupctx
+- 👀 I’m the founder of ContextAI GmbH ...
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
+
+<!---
+anupctx/anupctx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
